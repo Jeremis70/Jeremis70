@@ -26,9 +26,6 @@
 <div align="center">
   professional project starter
 </div>
-<div align="center">
-  i use arch btw
-</div>
 <br/>
 
 <div align="center">
